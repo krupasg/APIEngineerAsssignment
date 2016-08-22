@@ -1,5 +1,7 @@
 # APIEngineerAsssignment
 
+Github link: git@github.com:krupasg/APIEngineerAsssignment.git
+
 Steps to run the code
 
 1. Import tweets project in to the Eclipse
